@@ -5,10 +5,10 @@
 
 - :🔭 I’m currently using ...
 
-    -TensorFlow
-    -Pytorch
-    -Microsoft Azure
-    -Apache Spark
+    TensorFlow
+    Pytorch
+    Microsoft Azure
+    Apache Spark
 
 - :telescope:🌱 I’m currently learning ...
 
@@ -18,6 +18,7 @@
     Data Enineering
     
  - :💬 Ask me about ...
+ 
     Mathematics
     Machine Learning
     Artificial Intelligence / Deep learning
