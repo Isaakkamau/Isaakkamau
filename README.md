@@ -2,7 +2,28 @@
 
 [![@isaakkamau's Holopin board](https://holopin.me/isaakkamau)](https://holopin.io/@isaakkamau)
 
+# Hi there 👋
 
+
+-🔭 I’m currently using ...
+
+    TensorFlow
+    Pytorch
+    Microsoft Azure
+    Apache Spark
+
+- :telescope:🌱 I’m currently learning ...
+
+    Docker
+    Kubernetes
+    Airflow
+    Data Enineering
+    
+ - :💬 Ask me about ...
+    Mathematics
+    Machine Learning
+    Artificial Intelligence / Deep learning
+    Machine Learning Engineering for Production (MLOps)
 
 
 <!--
