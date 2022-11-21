@@ -1,7 +1,3 @@
-### Hi there 👋
-
-[![@isaakkamau's Holopin board](https://holopin.me/isaakkamau)](https://holopin.io/@isaakkamau)
-
 # Hi there 👋
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -9,10 +5,10 @@
 
 - :🔭 I’m currently using ...
 
-    TensorFlow
-    Pytorch
-    Microsoft Azure
-    Apache Spark
+    -TensorFlow
+    -Pytorch
+    -Microsoft Azure
+    -Apache Spark
 
 - :telescope:🌱 I’m currently learning ...
 
