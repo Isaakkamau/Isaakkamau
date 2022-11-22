@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+repo!;I+am+a+developer;My+passion+is+deep+learning;)
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
