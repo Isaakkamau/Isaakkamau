@@ -17,12 +17,12 @@
    - : Airflow
    - : Data Enineering
     
- - :💬 Ask me about ...
+### 💬 Ask me about ...
  
-    Mathematics
-    Machine Learning
-    Artificial Intelligence / Deep learning
-    Machine Learning Engineering for Production (MLOps)
+   - : Mathematics
+   - : Machine Learning
+   - : Artificial Intelligence / Deep learning
+   - : Machine Learning Engineering for Production (MLOps)
 
 
 ### 🛠 Tech Stack 🛠
