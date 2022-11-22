@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-###🔭 I’m currently using ...
+### 🔭 I’m currently using ...
 
     TensorFlow
     Pytorch
     Microsoft Azure
     Apache Spark
 
-###telescope:🌱 I’m currently learning ...
+### telescope:🌱 I’m currently learning ...
 
     Docker
     Kubernetes
