@@ -5,17 +5,17 @@
 
 ### 🔭 I’m currently using ...
 
-    TensorFlow
-    Pytorch
-    Microsoft Azure
-    Apache Spark
+   - : TensorFlow
+   - : Pytorch
+   - : Microsoft Azure
+   - : Apache Spark
 
-### telescope:🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
-    Docker
-    Kubernetes
-    Airflow
-    Data Enineering
+   - : Docker
+   - : Kubernetes
+   - : Airflow
+   - : Data Enineering
     
  - :💬 Ask me about ...
  
