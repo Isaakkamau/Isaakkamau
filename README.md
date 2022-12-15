@@ -8,22 +8,22 @@
 ### 🔭 I’m currently using ...
 
    - : TensorFlow
-   - : Pytorch
-   - : Microsoft Azure
-   - : Apache Spark
+   - : TensorFlow Model Server
+   - : Microsoft Azure and Google cloud ML infrastracture
+   - : Docker and FastAPI
 
 ### 🌱 I’m currently learning ...
 
-   - : Docker
+   - : Apache Spark
    - : Kubernetes
-   - : Airflow
-   - : Data Enineering
+   - : Pytorch
+   - : Data Engineering
     
 ### 💬 Ask me about ...
  
    - : Mathematics
-   - : Machine Learning
-   - : Artificial Intelligence / Deep learning
+   - : Machine Learning Engineering / AI
+   - : Deploying Machine Learning Models in Production
    - : Machine Learning Engineering for Production (MLOps)
 
 
