@@ -21,7 +21,7 @@
     
 ### 💬 Ask me about ...
  
-   - : Data Scince
+   - : Tech
    - : Machine Learning Engineering / AI
    - : Deploying Machine Learning Models in Production
    - : Machine Learning Engineering for Production (MLOps)
