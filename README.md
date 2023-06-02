@@ -10,7 +10,7 @@
 
    - : TensorFlow
    - : Pytorch
-   - : Microsoft Azure and Google cloud ML infrastracture
+   - : AWS SageMaker and Google cloud ML infrastracture
    - : Docker and FastAPI
 
 ### 🌱 I’m currently learning ...
@@ -24,7 +24,7 @@
  
    - : Tech
    - : Machine Learning Engineering / AI
-   - : Deploying Machine Learning Models in Production
+   - : Mathematics
    - : Machine Learning Engineering for Production (MLOps)
 
 
