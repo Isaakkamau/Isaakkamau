@@ -10,8 +10,10 @@
 
    - : TensorFlow
    - : Pytorch
-   - : AWS SageMaker and Google cloud ML infrastracture
-   - : Docker and FastAPI
+   - : AWS SageMaker
+   - : Generative AI
+   - : LangChain & Langsmith
+   - : Docker, FastAPI & Flask
 
 ### 🌱 I’m currently learning ...
 
@@ -22,9 +24,9 @@
     
 ### 💬 Ask me about ...
  
-   - : Tech
-   - : Machine Learning Engineering / AI
-   - : Mathematics
+   - : Mathematics and Statistics
+   - : Machine Learning Engineering / GenAI
+   - : Data Science
    - : Machine Learning Engineering for Production (MLOps)
 
 
