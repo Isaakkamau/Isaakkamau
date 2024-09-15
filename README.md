@@ -10,9 +10,10 @@
 
    - : TensorFlow
    - : Pytorch
-   - : AWS SageMaker
+   - : AWS SageMaker, GCP
    - : Generative AI
-   - : LangChain & Langsmith
+   - : LangChain & Langsmith, AutoGen, CrewAI
+   - : GraphRAG, Neo4j
    - : Docker, FastAPI & Flask
 
 ### 🌱 I’m currently learning ...
@@ -24,10 +25,10 @@
     
 ### 💬 Ask me about ...
  
-   - : Mathematics and Statistics
-   - : Machine Learning Engineering / GenAI
-   - : Data Science
-   - : Machine Learning Engineering for Production (MLOps)
+   - : Mathematics and Data Science
+   - : GenAI & Agentic AI
+   - : RAG
+   - : AI SAAS
 
 
 ### 🛠 Tech Stack 🛠
