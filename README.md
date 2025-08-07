@@ -1,4 +1,4 @@
-### Hi there 👋 [![Blog](https://img.shields.io/badge/Blog-22cc44?style=flat-square&logo=blogger&logoColor=white)]([https://isaakkamau.hashnode.dev/](https://medium.com/@isaakmwangi2018))
+### Hi there 👋 [![Blog](https://img.shields.io/badge/Blog-22cc44?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@isaakmwangi2018)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+repo!;I+am+a+developer;My+passion+is+deep+learning;)
 
